@@ -4,8 +4,4 @@
 
 - 🍻 PhD student at 🇨🇳 [SCUT](https://www.scut.edu.cn/), _MSc in Fire_ Safety_ engineering_ from [Univerisity of Edinburgh](https://www.ed.ac.uk/)
 - ⚡ Fire Dynamic, Evuaction dynamic, C++ / Python.
-- 🖋  ....
-- ✍️ ....
-- 🏃 
-- 🥋 
 
