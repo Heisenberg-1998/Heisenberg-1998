@@ -4,4 +4,6 @@
 
 - 🍻 PhD student at 🇨🇳 [SCUT](https://www.scut.edu.cn/), _MSc in _Fire _Safety _engineering_ from [Univerisity of Edinburgh](https://www.ed.ac.uk/)
 - ⚡ Fire Dynamic, Evuaction dynamic, C++ / Python.
+- 📍 Based in Logan, Utah  
+- 📧 Contact: [weitianlu1998@gmail.com](mailto:weitianlu1998@gmail.com)   
 
