@@ -4,7 +4,7 @@
 
 - 🍻 Currently PhD student at 🇨🇳 [SCUT](https://www.scut.edu.cn/), focusing on AI-assisted post-fire structural assessment.
 - 🍻 _MSc in Fire_ _Safety_ _Engineering_ at [Univerisity of Edinburgh](https://www.ed.ac.uk/)
-- ⚡ Fire Dynamic, Evacuation dynamic, Structural Fire Engineering, C++ / Python.
+- ⚡ Structural Fire Engineering, Robtics, C++ / Python.
 - 📍 Based in Guangzhou, China 
 - 📧 Contact: [weitianlu1998@gmail.com](mailto:weitianlu1998@gmail.com)   
 
