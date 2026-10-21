@@ -12,3 +12,10 @@
 
 </a> <a href="https://www.linkedin.com/in/weitian-lu1998/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> 
 </a>
+
+<a href="https://heisenberg-1998.github.io/academic-cv/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Website-Personal%20Homepage-495867?style=flat-square&logo=googlechrome&logoColor=white"
+    alt="Personal Homepage"
+  />
+</a>
