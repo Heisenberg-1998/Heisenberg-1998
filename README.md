@@ -7,7 +7,6 @@
 - ⚡ Structural Fire Engineering, Robtics, C++ / Python.
 - 📍 Based in Guangzhou, China 
 - 📧 Contact: [weitianlu1998@gmail.com](mailto:weitianlu1998@gmail.com)
-- 🌐 Personal website: [heisenberg-1998.github.io/academic-cv](https://heisenberg-1998.github.io/academic-cv/)
 
 ### Socials
 
